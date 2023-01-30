@@ -1,4 +1,5 @@
-#SISTEM INFORMASI SEKOLA
+#BERIKUT INI ADALAH APLIKASI BACK END SISTEM INFORMASI SEKOLAH
+
 ![Screen Shot 2023-01-30 at 15 51 12](https://user-images.githubusercontent.com/110754191/215437579-4db0843a-69fc-456e-9e7a-c00b6c2b6404.png)
 ![Screen Shot 2023-01-30 at
 ![Screen Shot 2023-01-30 at 16 22 26](https://user-images.githubusercontent.com/110754191/215437657-345ef6b7-fc76-405e-b9e0-46b61a76d6bd.png)
